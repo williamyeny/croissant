@@ -16,11 +16,11 @@ var scoreText1, scoreText2;
 var score1, score2;
 
 function preload() {
-  game.load.image('croissant', './../img/croissant.png');
-  game.load.image('ground', './../img/ground.png');
-  game.load.image('background', './../img/paris.jpg');
-  game.load.image('redparticle', './../img/redparticle.png');
-  game.load.image('blueparticle', './../img/blueparticle.png');
+  game.load.image('croissant', '../img/croissant.png');
+  game.load.image('ground', '../img/ground.png');
+  game.load.image('background', '../img/paris.jpg');
+  game.load.image('redparticle', '../img/redparticle.png');
+  game.load.image('blueparticle', '../img/blueparticle.png');
 }
 
 function create() {
